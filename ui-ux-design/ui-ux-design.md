@@ -1,6 +1,6 @@
 # UI/UX Design
 
-### Week 2 Keywords and Questions
+### Week 2 Keywords and Questions 
 
 (refer to the lesson slide deck)
 
